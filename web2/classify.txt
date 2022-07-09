@@ -1,4 +1,0 @@
-"巧克力"	"http://www.baidu/qiaokeli.png"	"0001"
-"烘焙糕点"	"http://www.baidu/hbgd.png"	"0005"
-"膨化食品"	"http://www.baidu/tiaozhi.png"	"0003"
-"调制饮品"	"http://www.baidu/tiaozhi.png"	"0004"

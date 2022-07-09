@@ -1,7 +1,0 @@
-"1234"	"customer1"	"0001"	"c"
-"2345"	"customer2"	"0002"	"c"
-"3456"	"customer3"	"0003"	"c"
-"4567"	"customer4"	"0004"	"c"
-"5678"	"customer5"	"0005"	"c"
-"6789"	"customer6"	"0006"	"c"
-"67890"	"manager"	"0007"	"m"
