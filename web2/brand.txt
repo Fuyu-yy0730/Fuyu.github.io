@@ -1,0 +1,5 @@
+"0001"	"德芙"	"http://www.defu.com"	"http://www.defu/pic/main.png"
+"0002"	"真果粒"	"http://www.zgl.com"	"http://www.zgl/pic/main.png"
+"0003"	"伊利"	"http://www.yili.com"	"http://www.yili/pic/main.png"
+"0004"	"乐事"	"http://www.leshi.com"	"http://www.leshi/pic/main.png"
+"0005"	"奥利奥"	"http://www.olio.com"	"http://www.olio/pic/main.png"
